@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm **Tejas Mane**
 
-## 🚀 System Engineer | Cloud Architect | Full-Stack Developer
+## 🚀 System Engineer | Cloud Architect | Front-end Developer 
 
 **Passionate about building scalable systems, cloud infrastructure, and innovative solutions**
 
