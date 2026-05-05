@@ -15,7 +15,7 @@
 
 ## 💼 About Me
 
-I'm a dedicated System Engineer with a passion for designing and implementing robust, scalable systems. With expertise across cloud platforms, DevOps practices, and full-stack development, I help organizations build resilient infrastructure and deliver cutting-edge solutions.
+I'm a dedicated System Engineer with a passion for designing and implementing robust, scalable systems. With expertise across cloud platforms, DevOps practices, and full-stack development, I help organizations build resilient infrastructure and deliver cutting-edge solutions Thanks.
 
 ## 🌐 Quick Links
 
